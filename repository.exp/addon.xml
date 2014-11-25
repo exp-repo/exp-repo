@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.exp" name="Exp-Repo" version="1.3" provider-name="Exp">
+	<extension point="xbmc.addon.repository" name="Exp-Repo">
+		<info compressed="false">http://raw.githubusercontent.com/exp-repo/exp-repo/master/addons.xml</info>
+		<checksum>http://raw.githubusercontent.com/exp-repo/exp-repo/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.githubusercontent.com/exp-repo/exp-repo/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install MY Addons</summary>
+		<description>Download and install addons from Exp.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

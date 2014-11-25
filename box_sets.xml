@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+=======================================================================================================================================
+<channel>
+<name>24</name>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>http://discoversky.sky.com/hdvalue/assets/images/carousel-1.jpg</fanart>
+   
+<subchannel>
+<name>Season 1</name>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<subitems>
+<subitem>
+<title>Episode 1</title>
+<link>http://..com</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+</subitem>
+</subitems>    
+</subchannel>
+
+<subchannel>
+<name>Season 2</name>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<subitems>
+<subitem>
+<title>Episode 1</title>
+<link>http://..com</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+</subitem>
+<subitem>
+<title>Episode 2</title>
+<link>http://..com</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+</subitem>
+</subitems>    
+</subchannel>
+</channel>
+=======================================================================================================================================
+
+<channel>
+<name>House</name>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<fanart>http://discoversky.sky.com/hdvalue/assets/images/carousel-1.jpg</fanart>
+   
+<subchannel>
+<name>Season 1</name>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<subitems>
+<subitem>
+<title>Episode 1</title>
+<link>http://..com</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+</subitem>
+</subitems>    
+</subchannel>
+
+<subchannel>
+<name>Season 2</name>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<subitems>
+<subitem>
+<title>Episode 1</title>
+<link>http://..com</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+</subitem>
+<subitem>
+<title>Episode 2</title>
+<link>http://..com</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+</subitem>
+</subitems>    
+</subchannel>
+
+
+</channel>
+=======================================================================================================================================
+</channels>

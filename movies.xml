@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<channels>
+=======================================================================================================================================
+
+<channel>
+<name>Action</name>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/uscclarkey/exp/master/pics/Movies%20fanart.jpg</fanart>
+ 
+<item>
+<title>Brick Mansions</title>
+<link>http://goo.gl/T1PQOG</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BOTI0ODQ2MzY5NF5BMl5BanBnXkFtZTgwNTcxNzQxMTE@._V1_SX214_AL_.jpg</thumbnail>
+</item>  
+
+</channel>
+=======================================================================================================================================
+
+<channel>
+<name>Horror</name>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/uscclarkey/exp/master/pics/Movies%20fanart.jpg</fanart>
+   
+<item>
+<title>Brick Mansions</title>
+<link>http://goo.gl/T1PQOG</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BOTI0ODQ2MzY5NF5BMl5BanBnXkFtZTgwNTcxNzQxMTE@._V1_SX214_AL_.jpg</thumbnail>
+</item>
+
+</channel>
+</channels>
