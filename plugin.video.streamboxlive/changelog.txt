@@ -1,0 +1,14 @@
+v1.3c
+Major update added TV guide and favs
+
+v1.3
+fixed my booboo
+
+v1.2
+edited login screen
+
+v1.1
+Update for Gotham
+
+v1.0
+Initial Release
