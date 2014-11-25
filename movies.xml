@@ -6,7 +6,7 @@
 <channel>
 <name>Action</name>
 <thumbnail></thumbnail>
-<fanart>https://raw.githubusercontent.com/uscclarkey/exp/master/pics/Movies%20fanart.jpg</fanart>
+<fanart>http://raw.github.com/exp-repo/exp-repo/master/pics/Movies%20fanart.jpg</fanart>
  
 <item>
 <title>Test Movie</title>

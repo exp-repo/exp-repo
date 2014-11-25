@@ -37,7 +37,7 @@
 
 <addon id="plugin.video.movies"
        name="Movies"
-       version="1.0b"
+       version="1.0c"
        provider-name="Exp">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
