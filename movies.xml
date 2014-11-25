@@ -2,7 +2,6 @@
  
 <channels>
 =======================================================================================================================================
-
 <channel>
 <name>Action</name>
 <thumbnail></thumbnail>
@@ -16,7 +15,6 @@
 
 </channel>
 =======================================================================================================================================
-
 <channel>
 <name>Horror</name>
 <thumbnail></thumbnail>
@@ -29,4 +27,25 @@
 </item>
 
 </channel>
+=======================================================================================================================================
+<channel>
+<name>Comedy</name>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/uscclarkey/exp/master/pics/Movies%20fanart.jpg</fanart>
+   
+<item>
+<title>22 Jump Street</title>
+<link>https://dl.dropboxusercontent.com/u/12710347/Movies/22%20Jump%20Street.avi</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQzNzg0NDI2MF5BMl5BanBnXkFtZTgwMzgxNzY2MTE@._V1_SX214_AL_.jpg</thumbnail>
+</item>
+
+</channel>
+=======================================================================================================================================
 </channels>
+
+
+
+
+
+
+
