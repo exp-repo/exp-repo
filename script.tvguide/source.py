@@ -821,7 +821,7 @@ class XMLTVSource(Source):
     EPG_USUKBASIC = 'guide.xmltv'
     EPG_URL = 'https://dl.dropboxusercontent.com/u/12710347/TvGuide/'
     KEY = 'xmltv'
-    INI_FILE = 'addons2.ini'
+    INI_FILE = 'addons.ini'
     TYPE_EPG_ALL = 0
     TYPE_EPG_BASIC = 1
     TYPE_EPG_UKBASIC = 2
