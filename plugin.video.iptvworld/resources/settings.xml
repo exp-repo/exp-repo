@@ -1,7 +1,7 @@
 <settings>
 <category label="[COLOR yellow][B]Settings[/B][/COLOR]">
 	<setting id="user" type="text" label="[COLOR yellow][B]Email[/B][/COLOR]" default=""/>
-	<setting id="pass" type="text" label="[COLOR yellow][B]Password[/B][/COLOR]" default=""/>
+	<setting id="pass" type="text" label="[COLOR yellow][B]Password[/B][/COLOR]" default="" option="hidden"/>
     <setting id="streamtype" type="enum" values="HLS|RTMP" label="[COLOR yellow][B]Stream Type[/B][/COLOR]" default="0"/>
 	<setting id="tvguide" type="bool" label="[COLOR yellow][B]Enable Instant Guide[/B][/COLOR]" default="true"/>
 	<setting id="genre" type="bool" label="[COLOR yellow][B]Use Genre For Listings[/B][/COLOR]" default="true"/>
