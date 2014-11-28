@@ -89,7 +89,7 @@
 	</extension>
 </addon>
 
-<addon id="script.tvguide" name="TV Guide" version="10.2a" provider-name="Uscclarkey">
+<addon id="script.tvguide" name="TV Guide" version="10.3" provider-name="Uscclarkey">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.simplejson" version="2.0.10"/>

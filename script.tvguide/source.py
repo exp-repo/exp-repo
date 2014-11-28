@@ -813,22 +813,14 @@ class Source(object):
 
 class XMLTVSource(Source):
     PLUGIN_DATA = xbmc.translatePath(os.path.join("special://profile/addon_data","script.tvguide"))
-    EPG_BASIC = 'guide.xmltv'
+    EPG_BASIC = 'guide_sbl.xmltv'
     EPG_ALL = 'guide.xmltv'
-    EPG_UKBASIC = 'guide.xmltv'
-    EPG_UKSKY = 'guide.xmltv'
-    EPG_USTV = 'guide.xmltv'
-    EPG_USUKBASIC = 'guide.xmltv'
     EPG_URL = 'https://dl.dropboxusercontent.com/u/12710347/TvGuide/'
     KEY = 'xmltv'
     INI_FILE = 'addons.ini'
     TYPE_EPG_ALL = 0
     TYPE_EPG_BASIC = 1
-    TYPE_EPG_UKBASIC = 2
-    TYPE_EPG_UKSKY = 3
-    TYPE_EPG_USTV = 4
-    TYPE_EPG_USUKBASIC = 5
-    TYPE_CUSTOM = 6
+    TYPE_CUSTOM = 2
     INTERVAL_ALWAYS = 0
     INTERVAL_12 = 1
     INTERVAL_24 = 2
