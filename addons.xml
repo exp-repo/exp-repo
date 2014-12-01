@@ -2,16 +2,16 @@
 <addons>
 <addon id="plugin.video.boxsets"
        name="Box Sets"
-       version="1.1a"
+       version="1.2"
        provider-name="Exp">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.simplejson" />
   </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Box Sets</summary>
@@ -37,20 +37,20 @@
 
 <addon id="plugin.video.movies"
        name="Movies"
-       version="1.0d"
+       version="1.1"
        provider-name="Exp">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+	<import addon="script.module.beautifulsoup" version="3.0.8"/>
     <import addon="script.module.simplejson" />
   </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Movies</summary>
-    <description>Stream movies from our database.</description>
+    <description>Stream movies from out database.</description>
     <platform>all</platform>
   </extension>
 </addon>
