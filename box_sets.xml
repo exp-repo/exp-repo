@@ -4,7 +4,7 @@
 <channel>
 <name>The Big Bang Theory</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE@._V1_SY317_CR20,0,214,317_AL_.jpg</thumbnail>
-<fanart>http://discoversky.sky.com/hdvalue/assets/images/carousel-1.jpg</fanart>
+<fanart></fanart>
    
 <subchannel>
 <name>Season 3</name>
@@ -26,7 +26,7 @@
 <channel>
 <name>Family Guy</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk4MzM0MTU2MV5BMl5BanBnXkFtZTgwMTIwMzg3MjE@._V1_SY317_CR30,0,214,317_AL_.jpg</thumbnail>
-<fanart>http://discoversky.sky.com/hdvalue/assets/images/carousel-1.jpg</fanart>
+<fanart></fanart>
    
 <subchannel>
 <name>Season 1</name>
@@ -46,7 +46,7 @@
 <channel>
 <name>24</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
-<fanart>http://discoversky.sky.com/hdvalue/assets/images/carousel-1.jpg</fanart>
+<fanart></fanart>
    
 <subchannel>
 <name>Season 1</name>
@@ -82,7 +82,7 @@
 <channel>
 <name>House</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
-<fanart>http://discoversky.sky.com/hdvalue/assets/images/carousel-1.jpg</fanart>
+<fanart></fanart>
    
 <subchannel>
 <name>Season 1</name>
