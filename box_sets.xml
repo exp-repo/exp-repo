@@ -132,27 +132,27 @@
 =======================================================================================================================================
 
 <channel>
-<name>test</name>
+<name>Test</name>
 <thumbnail></thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 
-<subitem>
+<item>
 <title>Season 1</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Music/Ashanti%20-%20Baby.mp3</link>
 <link>https://dl.dropboxusercontent.com/u/12710347/Music/Ashanti%20-%20Baby.mp3</link>
 <link>https://dl.dropboxusercontent.com/u/12710347/Music/Ashanti%20-%20Baby.mp3</link>
 <thumbnail></thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
-</subitem>
+</item>
 
-<subitem>
+<item>
 <title>Season 2</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Music/Ashanti%20-%20Baby.mp3</link>
 <link>https://dl.dropboxusercontent.com/u/12710347/Music/Ashanti%20-%20Baby.mp3</link>
 <link>https://dl.dropboxusercontent.com/u/12710347/Music/Ashanti%20-%20Baby.mp3</link>
 <thumbnail></thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
-</subitem>
+</item>
 
 </channel>
 =======================================================================================================================================
