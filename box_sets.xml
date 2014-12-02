@@ -1,61 +1,66 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <channels>
+=======================================================================================================================================
 
 <channel>
 <name>The Big Bang Theory</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE@._V1_SY317_CR20,0,214,317_AL_.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
    
 <subchannel>
 <name>Season 3</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE@._V1_SY317_CR20,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 <subitems>
 <subitem>
 <title>Episode 1</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Box%20Sets/The%20Big%20Bang%20Theory/Season%203/03x01%20-%20The%20Electric%20Can%20Opener%20Fluctuation.avi</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE@._V1_SY317_CR20,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 </subitems>    
 </subchannel>
 
-
 </channel>
 =======================================================================================================================================
 
-=======================================================================================================================================
 <channel>
 <name>Family Guy</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk4MzM0MTU2MV5BMl5BanBnXkFtZTgwMTIwMzg3MjE@._V1_SY317_CR30,0,214,317_AL_.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
    
 <subchannel>
 <name>Season 1</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk4MzM0MTU2MV5BMl5BanBnXkFtZTgwMTIwMzg3MjE@._V1_SY317_CR30,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 <subitems>
 <subitem>
 <title>Episode 1</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Box%20Sets/Family%20Guy/Season%201/Family%20Guy%20-%20101%20-%20Death%20Has%20A%20Shadow.avi</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk4MzM0MTU2MV5BMl5BanBnXkFtZTgwMTIwMzg3MjE@._V1_SY317_CR30,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 </subitems>    
 </subchannel>
 
-
 </channel>
 =======================================================================================================================================
+
 <channel>
 <name>24</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
-<fanart></fanart>
-   
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+
 <subchannel>
 <name>Season 1</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 <subitems>
 <subitem>
 <title>Episode 1</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Movies/Charlies%20Video.mov</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 </subitems>    
 </subchannel>
@@ -63,35 +68,41 @@
 <subchannel>
 <name>Season 2</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 <subitems>
 <subitem>
 <title>Episode 1</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Movies/Charlies%20Video.mov</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 <subitem>
 <title>Episode 2</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Movies/Charlies%20Video.mov</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5OTkyNzA0NF5BMl5BanBnXkFtZTcwMDYyMDUwMg@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 </subitems>    
 </subchannel>
+
 </channel>
 =======================================================================================================================================
 
 <channel>
 <name>House</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
-<fanart></fanart>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
    
 <subchannel>
 <name>Season 1</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 <subitems>
 <subitem>
 <title>Episode 1</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Movies/Charlies%20Video.mov</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 </subitems>    
 </subchannel>
@@ -99,16 +110,19 @@
 <subchannel>
 <name>Season 2</name>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 <subitems>
 <subitem>
 <title>Episode 1</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Movies/Charlies%20Video.mov</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 <subitem>
 <title>Episode 2</title>
 <link>https://dl.dropboxusercontent.com/u/12710347/Movies/Charlies%20Video.mov</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA4NTkzNjg1OF5BMl5BanBnXkFtZTcwNjg3MTI1Ng@@._V1_SX214_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
 </subitem>
 </subitems>    
 </subchannel>
@@ -116,4 +130,61 @@
 
 </channel>
 =======================================================================================================================================
+
+<channel>
+<name></name>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+   
+<subchannel>
+<name>Season 1</name>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+<subitems>
+
+<subitem>
+<title>Episode 1</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+</subitem>
+<subitem>
+<title>Episode 2</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+</subitem>
+</subitems>    
+</subchannel>
+
+<subchannel>
+<name>Season 2</name>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+<subitems>
+
+<subitem>
+<title>Episode 1</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+</subitem>
+<subitem>
+<title>Episode 2</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/box%20sets%20fanart.jpg</fanart>
+</subitem>
+</subitems>    
+</subchannel>
+
+</channel>
+=======================================================================================================================================
+
+
+
+
+
+
+
 </channels>
