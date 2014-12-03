@@ -1,7 +1,4 @@
-<poster>[B][COLOR cyan].[/COLOR][COLOR red]M[/COLOR][COLOR yellow]i[/COLOR][COLOR magenta]k[/COLOR][COLOR lime]e[/COLOR][COLOR white]y[/COLOR][COLOR orange]1[/COLOR][COLOR cyan]2[/COLOR][COLOR red]3[/COLOR][COLOR yellow]4[/COLOR] [COLOR magenta]P[/COLOR][COLOR lime]l[/COLOR][COLOR white]a[/COLOR][COLOR orange]y[/COLOR][COLOR cyan]L[/COLOR][COLOR red]i[/COLOR][COLOR yellow]s[/COLOR][COLOR magenta]t[/COLOR][/B]</poster>
-<thumbnail>http://mikey1234-repo.googlecode.com/svn/icon.png</thumbnail>
-<fanart>http://mikey1234-repo.googlecode.com/svn/fanart.jpg</fanart> 
-
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 <title>Test Movie Dropbox</title>
