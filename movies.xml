@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>Test Movie Dropbox</title>
-<link>https://dl.dropboxusercontent.com/u/12710347/Movies/Charlies%20Video.mov</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/Movies%20fanart.png</fanart>
-</item>  
-   
+</item>
+
 <item>
-<title>Test Movie 2 Google</title>
-<link>http://goo.gl/Pjqb9r</link>
-<thumbnail></thumbnail>
+<title>The Guest</title>
+<link>https://b9c34dd88cc13cccb760721f51240305dcb60018.googledrive.com/host/0B4aCAaKzgvpYclJHY1F4WnByaEk/The%20Guest.avi</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_SX214_AL_.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/Movies%20fanart.png</fanart>
+</item>
+
+<item>
+<title>Guardians Of The Galaxy</title>
+<link>https://b9c34dd88cc13cccb760721f51240305dcb60018.googledrive.com/host/0B4aCAaKzgvpYclJHY1F4WnByaEk/Guardians%20of%20the%20Galaxy.avi</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_SX214_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/Movies%20fanart.png</fanart>
 </item>
 
 <item>
 <title>Lee Evans - Monsters</title>
 <link>https://b9c34dd88cc13cccb760721f51240305dcb60018.googledrive.com/host/0B4aCAaKzgvpYclJHY1F4WnByaEk/Lee%20Evans%20-%20Monsters.mp4</link>
-<thumbnail></thumbnail>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTkzODc2NjkzNl5BMl5BanBnXkFtZTgwMDAxMTg1MzE@._V1_SX214_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/Movies%20fanart.png</fanart>
 </item>
 
 <item>
 <title>As Above, So Below</title>
-<link>https://dl.dropboxusercontent.com/u/12710347/Movies/As%20Above%2C%20So%20Below.avi</link>
+<link>https://b9c34dd88cc13cccb760721f51240305dcb60018.googledrive.com/host/0B4aCAaKzgvpYclJHY1F4WnByaEk/As%20Above,%20So%20Below.avi</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQzNzg0NDI2MF5BMl5BanBnXkFtZTgwMzgxNzY2MTE@._V1_SX214_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/Movies%20fanart.png</fanart>
 </item>
 
 <item>
 <title>22 Jump Street</title>
-<link>http://goo.gl/JpXxUX</link>
+<link>https://b9c34dd88cc13cccb760721f51240305dcb60018.googledrive.com/host/0B4aCAaKzgvpYclJHY1F4WnByaEk/22%20Jump%20Street.avi</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTcwNzAxMDU1M15BMl5BanBnXkFtZTgwNDE2NTU1MTE@._V1_SX214_AL_.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/exp-repo/exp-repo/master/pics/Movies%20fanart.png</fanart>
 </item>
