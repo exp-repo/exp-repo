@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>test</titlw>
-<link>plugin://plugin.video.streamboxlive/?url=14&mode=125&name=BBC+One&iconimage=http%3A%2F%2Fstatic.filmon.com%2Fcouch%2Fchannels%2F14%2Fextra_big_logo.png&start=&ch_fanart=</link>
-</item>
-
-<item>
 <title>The Guest</title>
 <link>https://b9c34dd88cc13cccb760721f51240305dcb60018.googledrive.com/host/0B4aCAaKzgvpYclJHY1F4WnByaEk/The%20Guest.avi</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BOTQyODc5MTAwM15BMl5BanBnXkFtZTgwNjMwMjA1MjE@._V1_SX214_AL_.jpg</thumbnail>
