@@ -41,11 +41,11 @@ def makeRequest(url, headers=None):
             print 'URL: '+url
             if hasattr(e, 'code'):
                 print 'We failed with error code - %s.' % e.code
-                xbmc.executebuiltin("XBMC.Notification(PinoyTV Live, We failed with error code - "+str(e.code)+",10000,"+icon+")")
+                xbmc.executebuiltin("XBMC.Notification(Movies, We failed with error code - "+str(e.code)+",10000,"+icon+")")
             elif hasattr(e, 'reason'):
                 print 'We failed to reach a server.'
                 print 'Reason: %s' %e.reason
-                xbmc.executebuiltin("XBMC.Notification(PinoyTV Live, We failed to reach a server. - "+str(e.reason)+",10000,"+icon+")")
+                xbmc.executebuiltin("XBMC.Notification(Movies, We failed to reach a server. - "+str(e.reason)+",10000,"+icon+")")
 
 
 def getSoup(url):
