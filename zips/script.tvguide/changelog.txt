@@ -1,3 +1,6 @@
+10.4d
+Moved the logo down so it sits behind the preview box.
+
 10.3
 Eddited xmltv files
 

@@ -464,8 +464,8 @@
             </control>
             <control type="image" id="4023">
                 <description>Program logo / Source logo</description>
-                <posx>940</posx>
-                <posy>515</posy>
+                <posx>930</posx>
+                <posy>530</posy>
                 <width>320</width>
                 <height>160</height>
                 <aspectratio>keep</aspectratio>
