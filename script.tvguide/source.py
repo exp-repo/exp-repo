@@ -814,8 +814,8 @@ class Source(object):
 class XMLTVSource(Source):
     PLUGIN_DATA = xbmc.translatePath(os.path.join("special://profile/addon_data","script.tvguide"))
     EPG_BASIC = 'guide_sbl.xmltv'
-    EPG_ALL = 'guide.xmltv'
-    EPG_URL = 'https://dl.dropboxusercontent.com/u/12710347/TvGuide/'
+    EPG_ALL = 'guide_wliptv.xmltv'
+    EPG_URL = 'https://2c98c0c42a24475961c6c4cbee8d3456fe33b790.googledrive.com/host/0B4aCAaKzgvpYX1V6bFVaamI0Rms/'
     KEY = 'xmltv'
     INI_FILE = 'addons.ini'
     TYPE_EPG_ALL = 0
