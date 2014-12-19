@@ -167,7 +167,7 @@ msgid "All Channels"
 msgstr ""
 
 msgctxt "#30127"
-msgid "StreamBox Live Only"
+msgid "FreeView Only"
 msgstr ""
 
 msgctxt "#30128"
